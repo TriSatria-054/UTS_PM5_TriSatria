@@ -14,6 +14,6 @@ class MainActivity3 : AppCompatActivity() {
         val score = intent.getIntExtra("SCORE", 0)
 
         val txtResult: TextView = findViewById(R.id.txtResult)
-        txtResult.text = "Nama: $name\nScore: $score"
+        txtResult.text = "Nama: $name\nSkor: $score"
     }
 }

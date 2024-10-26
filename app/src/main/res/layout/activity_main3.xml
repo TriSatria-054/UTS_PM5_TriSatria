@@ -10,6 +10,15 @@
         android:id="@+id/txtResult"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        style="@style/BodyTextStyle"
         android:text="@string/result_message" />
+
+    <ImageView
+        android:id="@+id/img_banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/roblox_face"
+        android:contentDescription="@string/banner_description"
+        android:layout_marginTop="16dp"/>
+
+
 </LinearLayout>

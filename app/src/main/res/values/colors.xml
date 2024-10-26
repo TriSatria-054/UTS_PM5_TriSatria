@@ -3,10 +3,16 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="primary">#0079FB</color>
+    <color name="primaryDarkColor">#005BB5</color>
     <color name="gray">#808080</color>
-    <color name="light_gray">#D3D3D3</color> <!-- Warna abu-abu yang lebih terang -->
+    <color name="light_gray">#D3D3D3</color>
     <color name="red">#FF0000</color>
     <color name="secondary">#121212</color>
-    <color name="primaryColor">#0079FB</color>
-    <color name="accentColor">#FF4081</color> <!-- Contoh warna aksen -->
+    <color name="accentColor">#FF4081</color>
+    <color name="accentDarkColor">#C60067</color>
+
+    <color name="backgroundLight">#FFFFFF</color>
+    <color name="textLight">#000000</color>
+    <color name="backgroundDark">#121212</color>
+    <color name="textDark">#FFFFFF</color>
 </resources>
