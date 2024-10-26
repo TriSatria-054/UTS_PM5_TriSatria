@@ -5,20 +5,32 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/white"
     tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txtWelcome0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/welcome_text"
+        style="@style/TitleTextStyle"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="32dp"
+        app:layout_constraintHorizontal_bias="0.5"/>
 
     <TextView
         android:id="@+id/txtWelcome"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="Masukkan Nama Anda"
-        android:textColor="@color/black"
-        android:textSize="24sp"
-        android:textStyle="bold"
+        android:text="@string/enter_name"
+        style="@style/TitleTextStyle"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txtWelcome0"
         android:layout_marginTop="32dp"
         app:layout_constraintHorizontal_bias="0.5"/>
 
@@ -26,9 +38,9 @@
         android:id="@+id/edt_name"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:hint="Masukkan nama Anda"
+        android:hint="@string/enter_name"
         android:inputType="textPersonName"
-        android:padding="12dp"
+        style="@style/EditTextStyle"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/txtWelcome"
@@ -39,15 +51,22 @@
         android:id="@+id/btn_submit"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:padding="16dp"
-        android:text="Submit"
-        android:textColor="@color/white"
-        android:textAllCaps="false"
-        android:backgroundTint="@color/gray"
+        android:text="@string/submit_button"
+        style="@style/ButtonStyle"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/edt_name"
         android:layout_marginHorizontal="16dp"
         android:layout_marginTop="16dp" />
 
+    <ImageView
+        android:id="@+id/img_banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/roblox_face"
+        android:contentDescription="@string/banner_description"
+        app:layout_constraintTop_toBottomOf="@id/txtWelcome"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp"/>
 </androidx.constraintlayout.widget.ConstraintLayout>

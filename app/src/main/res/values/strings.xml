@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">My Application3</string>
+    <string name="app_name">Kuis Pilihan Ganda</string>
+    <string name="welcome_text">Kuis Pilihan Ganda</string>
+    <string name="enter_name">Masukkan Nama Anda</string>
+    <string name="submit_button">Submit</string>
+    <string name="welcome_message">Selamat datang!</string>
+    <string name="banner_description">Banner Image</string>
+    <string name="result_message">Hasil Kuis Anda: %1$d</string>
 </resources>
