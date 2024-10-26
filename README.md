@@ -27,7 +27,7 @@ quizziz: https://bpmpriau.kemdikbud.go.id/2020/04/08/kuis-interaktif-dengan-quiz
 
 roblox face: https://www.redbubble.com/i/pin/HD-Roblox-Man-Face-by-UragiriBranch/158326422.NP9QY
 
-mockup figma: https://www.figma.com/community/file/984665580534073640/quiz-app-design
+mockup figma: https://www.figma.com/proto/5Nfxe8tA2nWUqbalVYdhAa/Quiz-App-Design-(Community)?node-id=0-1&t=hVzbjATydUUSakdu-1
 
 e. Nama: Tri Satria
 NIM: 221401054 
