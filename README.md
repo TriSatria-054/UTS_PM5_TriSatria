@@ -8,9 +8,9 @@ a. Screenshot/Video
 
 https://github.com/user-attachments/assets/32614c72-2339-469f-a480-4f9b6ee92bf5
 
-b. Nama aplikasi: Kuis Pilgan Quizizz
+b. Nama aplikasi: Kuis Pilihan Ganda
 c. Deskripsi aplikasi
-Aplikasi Kuis Pilgan Quizizz adalah aplikasi interaktif yang memungkinkan pengguna untuk menguji pengetahuan mereka melalui pertanyaan pilihan ganda.
+Aplikasi Kuis Pilihan Ganda adalah aplikasi interaktif yang memungkinkan pengguna untuk menguji pengetahuan mereka melalui pertanyaan pilihan ganda.
 
 Fitur Utama:
 Nama Pengguna: Masukkan nama untuk personalisasi pengalaman kuis.
