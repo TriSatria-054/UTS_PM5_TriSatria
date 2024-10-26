@@ -21,6 +21,7 @@ User-Friendly: Antarmuka yang sederhana dan intuitif.
 Pertanyaan dan Pilihan Ganda: Berbagai pertanyaan dengan opsi jawaban yang menarik.
 
 d. Credit ke sumber-sumber aset yang digunakan
+
 quizziz: https://bpmpriau.kemdikbud.go.id/2020/04/08/kuis-interaktif-dengan-quizizz-tutorial-guru/
 roblox face: https://www.redbubble.com/i/pin/HD-Roblox-Man-Face-by-UragiriBranch/158326422.NP9QY
 mockup figma: https://www.figma.com/community/file/984665580534073640/quiz-app-design
