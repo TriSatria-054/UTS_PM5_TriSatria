@@ -29,6 +29,6 @@ roblox face: https://www.redbubble.com/i/pin/HD-Roblox-Man-Face-by-UragiriBranch
 
 mockup figma: https://www.figma.com/proto/5Nfxe8tA2nWUqbalVYdhAa/Quiz-App-Design-(Community)?node-id=0-1&t=hVzbjATydUUSakdu-1
 
-e. Nama: Tri Satria
+e. Nama: Tri Satria Boang Manalu
 NIM: 221401054 
 Lab 5
